@@ -1,0 +1,15 @@
+cmake-build-debug/
+
+*.log
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.out
+*.class
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
